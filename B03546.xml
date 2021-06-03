@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the suffering Protestants, owning protestation, by Mr John Guthrie, minister of the gospel. 1669.</title>
+            <author>Guthrie, John, 1632-1669.</author>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03546</idno><idno type="EEBO-CITATION">51617638</idno>
+  <idno type="VID">175247</idno>
+  <idno type="EEBO-PROQUEST">2240891321</idno>
+  
+            <idno type="STC">Wing G2269</idno>
+            <idno type="STC">ESTC R177745</idno>
+            <idno type="OCLC">51617638</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B03546)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175247)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2724:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the suffering Protestants, owning protestation, by Mr John Guthrie, minister of the gospel. 1669.</title>
+                  <author>Guthrie, John, 1632-1669.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Alexander Kennedy,</publisher>
+                  <pubPlace>[Scotland?] :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>An anti-Roman Catholic sermon relating the persecution being suffered by the Scottish Covenanters by a Covenanting minister.</note>
+                  <note>Imperfect: print show-through with some loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Catholic Church --  Controversial literature --  Protestant authors --  Early works to 1800.</term>
+               <term type="topical_term">Covenanters --  Scotland --  Early works to 1800.</term>
+               <term type="topical_term">Dissenters, Religious --  Scotland --  Early works to 1800.</term>
+               <term type="geographic_name">Scotland --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="tract">
+            <pb n="1" facs="tcp:175247:1"/>
+            <head>TO THE SUFFERING PROTESTANTS, OWNING PROTESTATION, BY M<seg rend="sup">r</seg> John Guthrie, Minister of the Gospel. 1669.</head>
+            <p>WOrthy and dearly beloved in our Lord Christ, Grace to you, and Peace from our Father. It is my hearts desire, that those who have the Tongue of the Learned, would take in hand, by their Letters, to refresh a poor scattered rem<g ref="char:EOLhyphen"/>nant for the Testimony of our Lord Jesus Christ, being put to wandering, for offering to stand in the gap in day of Backsliding, and Tryal and Wrath. I suppose there is no corner, whither the sound of our Cause, Call; Carriage or Suffer<g ref="char:EOLhyphen"/>ings hath not spread it self; which if impartially represented throughout all the pure Reformed Churches, a Vindication of us might easily be
+<pb n="2" facs="tcp:175247:2"/>extorted, and Apology in behalf of the Lords work of Reformation, but even from those who could, but would not; which at first we did not mistake, when the strongest in <hi>Israel</hi> for discern<g ref="char:EOLhyphen"/>ing times and signs of the Son of man, who for their Faith and Hope had out-stretched others, seem to be damaged in head and heart by that terrible-like blow; yet we strange, that when the Lord did so convincingly in his spot<g ref="char:EOLhyphen"/>less. Providence give a call to his Peoples ap<g ref="char:EOLhyphen"/>pearance, in ordering of their motions, and in testimony of his being pleas'd with his People, seal'd the Spirits of the dead and living; so by this time our darkness might seem to be much removed, and some what of their damp of spirit recovered; considering the Evidences of Gods ap<g ref="char:EOLhyphen"/>probation, reaching the hearts of enemies, indif<g ref="char:EOLhyphen"/>ferent to his work and cause. Now we may won<g ref="char:EOLhyphen"/>der that we have so little of a Vindication from the one, and Confession from the other, but all we did not mistake; so we now from our some<g ref="char:EOLhyphen"/>times sad heart forgave this long silence, know<g ref="char:EOLhyphen"/>ing assuredly, that Gods Work, and Cause, and Duty is approved to the hearts of all our dear<g ref="char:EOLhyphen"/>est friends, though they cannot fall upon a fit means of communicating their approbation, and also in what they can attain to, have given full
+<pb n="3" facs="tcp:175247:2"/>proof of their fellow-feeling with us, and their tender respect for the work we had in hand; yet it shall be more refreshful, when seeing one ano<g ref="char:EOLhyphen"/>ther in the face here and hereafter, and re-count if possible all the Lord hath done to us; but we ought humbly to submit the ordering and timing of that to him, who has scattered, and can gather again; until which time let us possess our Souls with patience, comforting our selves in this, that the Lord has not left us comfortless; yea, I know it may be said without vanity, O! if all the Land were like that Suffering-company, excepting those bonds, who had never any ground to be asham'd. My dear Companions in tribulation, rejoyce that ever the Lord determinate by a strong hand, to offer our service to him in any part of his Work, especially being clear'd, call'd, how much soever reflected upon by some; but I do without judging, leave it betwixt the God of the holy Covenant, and their own Conscien<g ref="char:EOLhyphen"/>ces; but my self and others, we know, should never attained to peace of Conscience, if neg<g ref="char:EOLhyphen"/>lecting a clear call to Duty. Yet I must say, such things as were slight to others, were to me insup<g ref="char:EOLhyphen"/>portable binding, considering how an unparal<g ref="char:EOLhyphen"/>lel'd Persecution has been carried on in <hi>Scotland,</hi> for discountenancing and dissenting from Prelates,
+<pb n="4" facs="tcp:175247:3"/>and considering also the Piety of the Sufferers, though but poor, and mean, and afflicted. I think when <hi>Scotland</hi> opened a mouth to the Lord, in Covenant against <hi>Prelacy</hi> and <hi>Popery;</hi> disadvantages were not minded as that which give freedom from their Obligation, for Nobles and Barons were obliged to it as well as the meaner sort of people; so to any rational Chri<g ref="char:EOLhyphen"/>stian, the prayers and tears of Gods People groan<g ref="char:EOLhyphen"/>ing under violence done to bodies and consci<g ref="char:EOLhyphen"/>ences did call for mutual help according to our power, especially did they, beseeching us to help according to Vows. There have many things of this kind been help'd with greater Encourage<g ref="char:EOLhyphen"/>ments, but never a clearer call since the first days of Reformation amongst us: But let all men take heed, that it is no small matter to engage in a naked duty without advantages on the one hand, and attended with so many disadvantages on the other. And moreover, comforting our selves in this, the Lord strengthning us to renew our Covenant engagements to God; and so I think, that those few Sufferers, are those who has been appointed to show favour to the dross and rubbish in <hi>Zion,</hi> to the Gospel buried in these Lands, which may presage a dreadful growth of Popery, if the Lord prevent it not. But now
+<pb n="5" facs="tcp:175247:3"/>where is the numerous company of Covenanters to God? When the poor commons could scarce get access, who now endeavour to keep their Oath and promise to God above those who shine like Torches for profession, and give ground of probability to do great things, and prove worse than nothing at last; I say, when the poor com<g ref="char:EOLhyphen"/>mons were showing themselves zealous, could have no access to appear for the thronging of Su<g ref="char:EOLhyphen"/>perior ranks to them. My heart is towards thee, good Governors of <hi>Israel,</hi> who offered themselves willingly, first and last, amongst the people of <hi>Zebulon</hi> and <hi>Napthaly,</hi> were a people that Jeo<g ref="char:EOLhyphen"/>pardize their lives into the death in the high pla<g ref="char:EOLhyphen"/>ces: but for the divisions of <hi>Reuben,</hi> there were great thoughts of heart; for in the remarkable providence of God, some of all these three King<g ref="char:EOLhyphen"/>doms hath been active and zealous for a Refor<g ref="char:EOLhyphen"/>mation-work, and given sufficient testimony thereto. It was also in our engagement to God, that we were once in the Lord; and who knows but our renting and sinful debates may be healed by our meeting there in the good old way, where<g ref="char:EOLhyphen"/>in our Souls had peace; and oh if that word <hi>Covenanters</hi> for a Reformation-work might bury these two of protesters and publick resolutioners: And since <hi>Esther</hi> is not only excusable, but com<g ref="char:EOLhyphen"/>mendable
+<pb n="6" facs="tcp:175247:4"/>in going in to the King upon the safety of her people: surely they were very much com<g ref="char:EOLhyphen"/>mendable worthy also, who did endeavour the safety of all his peoples precious priviledges; And morever, let this be remark'd, that we are still overcoming by our suffering for a Reforma<g ref="char:EOLhyphen"/>tion-work, in the stirring up others, and confirm<g ref="char:EOLhyphen"/>ing of many by the unanimous consent and testi<g ref="char:EOLhyphen"/>mony of our full of grace and glory, eminently worthy brethren, in all the parts of their sufferings, who, though dead, shall speak while the Gospel is preached in these Islands. Next God hath won<g ref="char:EOLhyphen"/>derfully ordered, that since that time <hi>Popery</hi> and <hi>Prelacy</hi> has been wonderfully withered; and it is the hope of some sober men, who are fruitful in their old age, that they shall not become green again before its withering and plucking up; so that it may be seen, that many of his people in this Land have had more peace and quietness than before, even for a long time; that when the ene<g ref="char:EOLhyphen"/>my waited to swallow us up, they are all fallen in the ditch they prepared for us. And if these things follow upon the cordial and conscionable duty of some of his people, what might have been expected? If all had been in their duty, surely by liberal things Gods people should have been confirmed. Likewise we may be confirmed
+<pb n="7" facs="tcp:175247:4"/>in this, That though the Sufferers were disprobable like, yet shewed their tender respect to the glorious interest of our Lord Jesus Christ, in giving full proof of their zeal: but the Lord, when he ordered all things well, and had shewed it was easie for him to promote his work by contemptible means, said, What was done, was enough, and that the time of our deliverance was not yet come; which, though sad words, yet was no surprizal to the real godly; but since that time the Lord has been pleased to show us what he had to do with us, in follow<g ref="char:EOLhyphen"/>ing him in his Work.</p>
+            <p>We may be comforted in this also, in converting of so many strangers meerly to the power of God; and others have found grace in the Wilderness, I mean saving grace, and that most convincingly to all that converse with them. But I cannot but add his wonderfully dealing, in providing the means of life for all his friends.</p>
+            <p>Now there are many sweet Scriptures become our own experience, since our Lord was known for a refuge; we heard of it before, but now we are the living and standing testimonies of it; but is it not far better to contain all that he may speak what he hath done to our families, to our souls and consciences.</p>
+            <p>O! if it were registred what he hath done to us, about us, and for us; I say this in a word, he oftentimes comforts us over all our sorrows, and hath never to this day reproved us, but have given full and unanswerable Confirmations of being in duty, yea approves of zeal for him, that any who shall be most in duty, shall be most commendable. Dear brethren, if ye consider the cause, call, circumstances, concomitants of duty, and the seals upon the hearts of the living and the dead; we have not only matter of great joy and consolation in our present Sufferings, but have also more than enough to answer any enemy in the
+<pb n="8" facs="tcp:175247:5"/>gate. Let us not faint therefore, but patiently endure, that none may take our Crown; and though separate one from another, meet at one and the same Throne, and that we may keep holy, faithful and stedfast, and not dare to seek any way to shift a Cross, when call'd to suffering by any unwarrantable bond; which if any essay to do, he is at once plucking down that which he made it his work to build up; and once condemns Gods work of Reformation, yea fights against the clearest principle of natures light, yea and all the Reformed Churches in <hi>Europe, Germany, France</hi> and <hi>Holland</hi> wrestling against these Romish or Antichri<g ref="char:EOLhyphen"/>stian Impositions. Let us also remember the inhuman usage towards all the Martyrs, whose blood, and whose heads and hands crys for stedfastness from all the parts of the Land, in not accepting a deliverance from <hi>Air, Irvine, Glasgow.</hi> I obtest also, that ye remember heartily in your prayers, the poor Widows and Fatherless, that ye be not affrighted throughout the terror of enemies, nor reproach of friends. But if there be any that will reproach, let him remember that it is of circumstances only, and such things cannot free a mans obligation from duty; and therefore let all forbear who hath done so hitherto; if not for our sakes, yet for the Gospels sake, for a little time will bury all circumstances; and if the Lord show kindness to generations following, the substance of that work will come to their hands, above the reach of all opposers. Study to be affectionate also, and of one mind to all our friends, of whom and against we could not but sin. If we should think that Gods honour were not as dear to them, tho they be permitted to mistake the season of duty, the testimony being more eminent, the tryal more searching, happy shall he be who continues to the end. <hi>Watch and pray, lest ye enter into temptation. Now the everlasting blessing of him that dwelt in the bush be with you.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>Alexander Kennedy.</hi> 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
